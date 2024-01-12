@@ -1,4 +1,5 @@
 # spc
+12 Jan 2024
 Statistical Process Control
 A project that I did mid nineties
 was to control a continuos extrusion process 
